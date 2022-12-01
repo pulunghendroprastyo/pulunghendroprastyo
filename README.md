@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pulunghendroprastyo
+- 👋 Hi, I’m Pulung Hendro Prastyo, S.S.T., M.Eng., MCE.
 - 👀 I’m interested in Natural Language Processing (NLP), Sentiment Analysis, Feature Selection, Machine Learning, and Web & Android Programming
 - 🌱 I’m currently learning Natural Language Processing
 - 💞️ I’m looking to collaborate on NLP and CV (Computer Vision)
